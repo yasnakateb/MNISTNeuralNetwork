@@ -4,7 +4,7 @@
 ######################################################
 from mnist_data import *
 from mnist_result import *
-from simple_neural_neteork import *
+from simple_neural_network import *
 
 lr = 4
 eps = .9
